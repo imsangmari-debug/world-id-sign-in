@@ -1,4 +1,4 @@
-> [!WARNING]  
+ > [!WARNING]  
 > This repository is deprecated as Sign in with World ID v1 is being sunset. Stay tuned for upcoming releases.
 
 # Sign in with World ID
